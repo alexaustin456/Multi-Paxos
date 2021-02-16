@@ -1,7 +1,3 @@
-
-# distributed algorithms, n.dulay 29 jan 2021
-# coursework, paxos made moderately complex
-
 defmodule Client do
 
 def start config, client_num, replicas do

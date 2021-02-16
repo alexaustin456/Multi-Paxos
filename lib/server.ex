@@ -1,7 +1,3 @@
-
-# distributed algorithms, n.dulay 29 jan 2021
-# coursework, paxos made moderately complex
-
 defmodule Server do
 
 def start config, server_num, multipaxos do

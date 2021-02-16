@@ -1,9 +1,3 @@
-
-# distributed algorithms, n.dulay, 29 jan 2021
-# coursework, paxos made moderately complex
-#
-# some helper functions for debugging 
-
 defmodule Debug do
 
 def info(config, message, verbose \\ 1) do
@@ -31,4 +25,3 @@ def mapstring(map) do
 end # mapstring
 
 end # Debug
-

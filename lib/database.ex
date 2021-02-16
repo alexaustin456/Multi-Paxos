@@ -1,7 +1,3 @@
-
-# distributed algorithms, n.dulay 29 jan 2021
-# coursework, paxos made moderately complex
-
 defmodule Database do
 
 def start config do
